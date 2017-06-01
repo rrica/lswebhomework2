@@ -1,0 +1,62 @@
+.jumbotron {
+	background-image: url(http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg);
+	background-size: cover;
+	color: white;
+	display: block;
+	height: 400px;
+}
+
+.navbar {
+	background: none;
+	border: none;
+	color: white;
+	font-weight: bold;
+	
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+h1 {
+	font-weight: bold;
+}
+
+#posted {
+	font-style: italic;
+}
+
+body {
+	font-family: helvetica;
+	font-size: 2em;
+	display: block;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+.caption {
+	font-style: italic;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    color: #fff;
+    background: #000;
+    border: 0;
+}
+
+.copyright {
+	color: gray;
+}
